@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/meanapp-dev',
+	db: 'mongodb://admin:Sp07861872!@kahana.mongohq.com:10060/app28380884',
 	app: {
 		title: 'meanApp - Development Environment'
 	},
